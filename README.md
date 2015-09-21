@@ -1,2 +1,2 @@
-# nexthemes-plugins
-Wordpress nexthemes
+# Nexthemes Plugins
+coming soon!
