@@ -1,0 +1,454 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Nexthemes Plugins\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Thu Sep 03 2015 11:04:08 GMT+0700 (SE Asia Standard Time)\n"
+"POT-Revision-Date: Thu Sep 03 2015 11:53:26 GMT+0700 (SE Asia Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../includes/class-nth-plugin-panel.php:26
+msgid ""
+"<strong>WARNING!</strong> If you disabled \"Static block\", some featured on "
+"theme will not working (Ex: Mega menu, Static block widget, Static block "
+"shortcode, ... )"
+msgstr ""
+
+#: ../includes/class-nth-plugin-panel.php:43 ../includes/class-nth-plugin-panel.
+#: php:96
+msgid "Settings"
+msgstr ""
+
+#: ../includes/class-nth-plugin-panel.php:54
+msgid "Disable Features"
+msgstr ""
+
+#: ../includes/class-nth-plugin-panel.php:55
+msgid "Tick the features, that you want to disable"
+msgstr ""
+
+#: ../includes/class-nth-plugin-panel.php:70
+msgid "Portfolio thumb size"
+msgstr ""
+
+#: ../includes/class-nth-plugin-panel.php:78
+msgid "Team member thumb size"
+msgstr ""
+
+#: ../includes/class-nth-plugin-panel.php:92 ../includes/class-nth-plugin-panel.
+#: php:92
+msgid "Nexthemes"
+msgstr ""
+
+#: ../includes/class-nth-plugin-panel.php:96
+msgid "Nexthemes Settings"
+msgstr ""
+
+#: ../includes/class.settings-api.php:204
+msgid "Hard Crop?"
+msgstr ""
+
+#: ../includes/class.settings-api.php:379
+msgid "Choose File"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios-front.php:95
+msgid "ALL"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:40
+msgctxt "post type general name"
+msgid "NTH Portfolios"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:41
+msgctxt "post type singular name"
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:42
+msgctxt "admin menu"
+msgid "NTH Portfolios"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:43
+msgctxt "add new on admin bar"
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:44
+msgctxt "Portfolio"
+msgid "Add New"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:45
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:46
+msgid "New Portfolio"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:47
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:48
+msgid "View Portfolio"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:49
+msgid "All Portfolios"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:50
+msgid "Search Portfolios"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:51
+msgid "Parent Portfolios:"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:52
+msgid "No Portfolios found."
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:53
+msgid "No Portfolios found in Trash."
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:82
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:83
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:84
+msgid "Search Categories"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:85
+msgid "Popular Categories"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:86
+msgid "All Categories"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:89
+msgid "Edit Category"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:90
+msgid "Update Category"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:91
+msgid "Add New Category"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:92
+msgid "New Category Name"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:93
+msgid "Separate Categories with commas"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:94
+msgid "Add or remove Categories"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:95
+msgid "Choose from the most used Categories"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:96
+msgid "No Categories found."
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:97
+msgid "Categories"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:113
+msgctxt "taxonomy general name"
+msgid "Tags"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:114
+msgctxt "taxonomy singular name"
+msgid "Tag"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:115
+msgid "Search Tags"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:116
+msgid "Popular Tags"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:117
+msgid "All Tags"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:120
+msgid "Edit Tag"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:121
+msgid "Update Tag"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:122
+msgid "Add New Tag"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:123
+msgid "New Tag Name"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:124
+msgid "Separate tags with commas"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:125
+msgid "Add or remove tags"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:126
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:127
+msgid "No tags found."
+msgstr ""
+
+#: ../includes/portfolios/class-portfolios.php:128
+msgid "Tags"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:18
+msgctxt "post type general name"
+msgid "Static blocks"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:19
+msgctxt "post type singular name"
+msgid "Block"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:20
+msgctxt "admin menu"
+msgid "NTH Blocks"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:21
+msgctxt "add new on admin bar"
+msgid "Block"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:22
+msgctxt "static block"
+msgid "Add New"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:23
+msgid "Add New Static Blocks"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:24
+msgid "New Block"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:25
+msgid "Edit Block"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:26
+msgid "View Block"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:27
+msgid "Static Blocks"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:28
+msgid "Search Static Blocks"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:29
+msgid "Parent Static Blocks:"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:30
+msgid "No Static blocks found."
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:31
+msgid "No Static blocks found in Trash."
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:73
+msgid "--Select--"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:126
+msgid "Position"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:127
+msgid "Date"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:137
+msgid "Mega menu"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:140
+msgid "Widget"
+msgstr ""
+
+#: ../includes/staticblocks/class-staticblocks.php:143
+msgid "Standard"
+msgstr ""
+
+#: ../includes/teams/class-team-members-admin.php:27
+msgid "Role"
+msgstr ""
+
+#: ../includes/teams/class-team-members-admin.php:30
+msgid "Name"
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:33
+msgctxt "post type general name"
+msgid "Team Members"
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:34
+msgctxt "post type singular name"
+msgid "Team Member"
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:35
+msgctxt "admin menu"
+msgid "NTH Members"
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:36
+msgctxt "add new on admin bar"
+msgid "Team Members"
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:37
+msgctxt "Team Member"
+msgid "Add New"
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:38
+msgid "Add New Member"
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:39
+msgid "New Member"
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:40
+msgid "Edit Member"
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:41
+msgid "View Member"
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:42
+msgid "All Members"
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:43
+msgid "Search Members"
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:44
+msgid "Parent Member:"
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:45
+msgid "No Members found."
+msgstr ""
+
+#: ../includes/teams/class-team-members.php:46
+msgid "No Members found in Trash."
+msgstr ""
+
+#: ../templates/pricing.tpl.php:21
+#, php-format
+msgid "/%s"
+msgstr ""
+
+#: ../templates/shortcode-comments.tpl.php:13
+msgid "By"
+msgstr ""
+
+#: ../templates/shortcode-feedburner.tpl.php:4
+msgid "enter your email address"
+msgstr ""
+
+#: ../woo-gridlisttoggle/class-gridlisttoggle.php:15 ../woo-gridlisttoggle/class-
+#: gridlisttoggle.php:20
+msgid "Default catalog view"
+msgstr ""
+
+#: ../woo-gridlisttoggle/class-gridlisttoggle.php:21
+msgid "Display products in grid or list view by default"
+msgstr ""
+
+#: ../woo-gridlisttoggle/class-gridlisttoggle.php:25
+msgid "Grid"
+msgstr ""
+
+#: ../woo-gridlisttoggle/class-gridlisttoggle.php:26
+msgid "List"
+msgstr ""
+
+#: ../woo-gridlisttoggle/class-gridlisttoggle.php:27
+msgid "Table"
+msgstr ""
+
+#: ../woo-gridlisttoggle/class-gridlisttoggle.php:78 ../woo-gridlisttoggle/class-
+#: gridlisttoggle.php:78
+msgid "Grid view"
+msgstr ""
+
+#: ../woo-gridlisttoggle/class-gridlisttoggle.php:78 ../woo-gridlisttoggle/class-
+#: gridlisttoggle.php:78
+msgid "List view"
+msgstr ""
+
+#: ../woo-gridlisttoggle/class-gridlisttoggle.php:78 ../woo-gridlisttoggle/class-
+#: gridlisttoggle.php:78
+msgid "Table view"
+msgstr ""
